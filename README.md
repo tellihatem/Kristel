@@ -133,4 +133,4 @@ The application uses three main models:
 
 ## License
 
-This project is private and proprietary.
+This project is licensed for non-commercial use only. Commercial use is prohibited.
